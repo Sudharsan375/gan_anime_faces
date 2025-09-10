@@ -98,8 +98,8 @@ PyTorch weights (anime_dcgan_generator.pth, anime_dcgan_discriminator.pth).
 
 ### 1. Clone Repo & Install Requirements
 ```bash
-!git clone https://github.com/your-username/anime-gan-dcgan.git
-%cd anime-gan-dcgan
+!git clone https://github.com/Sudharsan375/gan_anime_faces
+%cd gan_anime_faces
 !pip install torch torchvision matplotlib pillow
 ```
 
