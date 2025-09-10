@@ -118,4 +118,6 @@ display(Image(filename="epoch_images_torch/epoch_050.png"))
 
 ## Sample Output (Epoch 10 vs vs 20 vs 30 vs 40 vs 50)
 
+
+<img width="1091" height="577" alt="image" src="https://github.com/user-attachments/assets/4dd3d6f2-f01f-452b-bab5-3687e8bf2bb0" />
  
