@@ -116,6 +116,6 @@ display(Image(filename="epoch_images_torch/epoch_050.png"))
 - **Image quality**: Outputs blurrier than expected with only 50 epochs.  
 
 
-## Sample Output (Epoch 50)
-<img width="438" height="471" alt="image" src="https://github.com/user-attachments/assets/ebef715d-450d-48b9-b62c-b9c1f3d284aa" />
+## Sample Output (Epoch 10 vs vs 20 vs 30 vs 40 vs 50)
+
  
