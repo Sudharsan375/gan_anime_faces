@@ -6,6 +6,7 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 
 ## Project Structure
 ├── animefacedataset/ # dataset (unzipped here)
+
 ├── dcgan_anime_faces.py # main training script
 ├── generated_samples_torch/ # final generated images
 ├── epoch_images_torch/ # images saved per epoch
